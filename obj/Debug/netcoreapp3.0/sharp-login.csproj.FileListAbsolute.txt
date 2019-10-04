@@ -1,0 +1,11 @@
+C:\Users\j\codeworks\sharp-login\obj\Debug\netcoreapp3.0\sharp-login.csprojAssemblyReference.cache
+C:\Users\j\codeworks\sharp-login\obj\Debug\netcoreapp3.0\sharp-login.AssemblyInfoInputs.cache
+C:\Users\j\codeworks\sharp-login\obj\Debug\netcoreapp3.0\sharp-login.AssemblyInfo.cs
+C:\Users\j\codeworks\sharp-login\bin\Debug\netcoreapp3.0\sharp-login.exe
+C:\Users\j\codeworks\sharp-login\bin\Debug\netcoreapp3.0\sharp-login.deps.json
+C:\Users\j\codeworks\sharp-login\bin\Debug\netcoreapp3.0\sharp-login.runtimeconfig.json
+C:\Users\j\codeworks\sharp-login\bin\Debug\netcoreapp3.0\sharp-login.runtimeconfig.dev.json
+C:\Users\j\codeworks\sharp-login\bin\Debug\netcoreapp3.0\sharp-login.dll
+C:\Users\j\codeworks\sharp-login\bin\Debug\netcoreapp3.0\sharp-login.pdb
+C:\Users\j\codeworks\sharp-login\obj\Debug\netcoreapp3.0\sharp-login.dll
+C:\Users\j\codeworks\sharp-login\obj\Debug\netcoreapp3.0\sharp-login.pdb
